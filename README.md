@@ -16,10 +16,11 @@ https://github.com/luxcho1/asesor-ia-legal
 
 https://asesorialegal.site/
 
-## Integrantes del Grupo:
-- Luis Muñoz
-- Gabriel Toledo
-- Tomás Moreno
+## Autores
+
+- [Luis Muñoz](https://github.com/luxcho1)
+- [Tomas Moreno](https://github.com/Tomi880)
+- [Gabriel Toledo](https://github.com/Gabro22)
 
 ## Estructura
 
